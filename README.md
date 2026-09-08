@@ -1,3 +1,5 @@
+![Rating](https://img.shields.io/jetbrains/plugin/r/stars/31027) ![Downloads](https://img.shields.io/jetbrains/plugin/d/31027) ![Version](https://img.shields.io/jetbrains/plugin/v/31027)
+
 # Flexible For Arduino
 
 [Flexible For Arduino](https://plugins.jetbrains.com/plugin/31027-flexible-for-arduino) is a plugin for JetBrains IDEs that brings full embedded development for ESP32, Arduino, STM32, nRF52, and RP2040 boards — build, flash, debug, and monitor without leaving your IDE.
